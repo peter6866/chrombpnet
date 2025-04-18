@@ -15,7 +15,7 @@ config = {
     'download_url': 'https://github.com/kundajelab/chrombpnet',
     'version': '0.1.7',
     'packages': find_packages(),
-    'python_requires': '>=3.8',
+    'python_requires': '>=3.10',
     'install_requires': install_requires,
     'zip_safe': False,
     'scripts':[
